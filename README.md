@@ -6,6 +6,7 @@ Libraries and starter kits for ESP32 projects
 
 <b style="display:block; margin:2px 0;">Tools Menu and ESP32-S3 Board Configuration in Arduino IDE</b>
 
-<img src="https://github.com/user-attachments/assets/ad82af78-7b6d-4500-b495-11749d34e217" width="350" style="margin-top:2px;" />
+<img width="1280" height="720" alt="Tools Menu and ESP32-S3 Board Configuration in Arduino IDE" src="https://github.com/user-attachments/assets/396de5c8-d835-452f-bbdd-12c1661a46cf" />
+
 
 </div>
