@@ -1,7 +1,5 @@
 # SeeSys-Libraries
 Libraries and starter kits for ESP32 projects
-# SeeSys-Libraries
-Libraries and starter kits for ESP32 projects
 
 <div align="left">
 
